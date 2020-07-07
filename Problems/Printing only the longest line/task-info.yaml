@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+
+            System.out.println("Print it!");
+            // System.out.println("No, print it!");
+            /* System.out.println("Uncomment this line!"); */
+            System.out.println("Please, comment this line!");
+            System.out.println("Display this text!");
+            //// System.out.println("Do not comment it!");
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2498
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2498">JetBrains
+    Academy</a></html>
+  time: Tue, 07 Jul 2020 09:36:07 UTC
+record: -1

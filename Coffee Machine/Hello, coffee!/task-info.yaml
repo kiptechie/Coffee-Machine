@@ -54,7 +54,7 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/33/stages/175/implement
-status: Unchecked
+status: Solved
 feedback:
   message: No tests have run
   time: Mon, 06 Jul 2020 14:55:28 UTC

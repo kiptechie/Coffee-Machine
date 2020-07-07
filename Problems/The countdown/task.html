@@ -1,0 +1,11 @@
+<b>The countdown</b> <a class=right href="https://hyperskill.org/learn/step/2497">Open on JetBrains Academy</a>
+<br><br>
+<html>
+ <head></head>
+ <body>
+  <p>Given a program with commented code. Uncomment it so that the program outputs:</p> 
+  <pre><code class="language-java">three! two! one!
+go!</code></pre>
+ </body>
+</html><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 8 seconds</font><br><br>
+<a href="https://hyperskill.org/learn/step/3520">Show topic summary</a>

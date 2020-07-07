@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+        public static void main(String[] args) {
+
+            variable  // Change this line
+
+            System.out.println(variable);
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2485
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2485">JetBrains
+    Academy</a></html>
+  time: Tue, 07 Jul 2020 09:01:00 UTC
+record: -1

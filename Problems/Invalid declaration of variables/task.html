@@ -1,0 +1,9 @@
+<b>Invalid declaration of variables</b> <a class=right href="https://hyperskill.org/learn/step/2315">Open on JetBrains Academy</a>
+<br><br>
+<html>
+ <head></head>
+ <body>
+  <p><span>Given two variables </span><b>a</b><span> and </span><b>b </b><span>with invalid declarations.</span><b></b><span> Add a type to them.</span><br></p>
+ </body>
+</html><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 8 seconds</font><br><br>
+<a href="https://hyperskill.org/learn/step/3518">Show topic summary</a>
