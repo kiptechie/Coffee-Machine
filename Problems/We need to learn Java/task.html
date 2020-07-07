@@ -1,0 +1,15 @@
+<b>We need to learn Java</b> <a class=right href="https://hyperskill.org/learn/step/3760">Open on JetBrains Academy</a>
+<br><br>
+<html>
+ <head></head>
+ <body>
+  <p>Write a program that prints the following text:</p> 
+  <pre><code class="language-no-highlight">WE NEED TO
+
+LEARN JAVA
+
+AS QUICKLY AS POSSIBLE</code></pre> 
+  <p><strong>Hint:</strong> do not forget to print the empty lines!</p>
+ </body>
+</html><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 8 seconds</font><br><br>
+<a href="https://hyperskill.org/learn/step/3749">Show topic summary</a>

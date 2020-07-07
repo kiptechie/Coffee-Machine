@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems-We_need_to_learn_Java:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/We need to learn Java" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Coffee_Machine" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../Problems/We need to learn Java/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/We need to learn Java/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Problems/We need to learn Java/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Problems-We_need_to_learn_Java_main" />
+    <orderEntry type="module" module-name="util_main" />
+    <orderEntry type="module" module-name="util_test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Problems-We_need_to_learn_Java_main" />
+</module>

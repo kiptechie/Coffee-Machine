@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="Coffee_Machine-task" target="11" />
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Digits_from_0_to_9_in_a_single_line" target="11" />
+      <module name="Problems-Digits_from_0_to_9_in_a_single_line_main" target="11" />
+      <module name="Problems-Digits_from_0_to_9_in_a_single_line_test" target="11" />
+      <module name="Problems-First,_second,_third" target="11" />
+      <module name="Problems-First,_second,_third_main" target="11" />
+      <module name="Problems-First,_second,_third_test" target="11" />
+      <module name="Problems-From_0_to_4" target="11" />
+      <module name="Problems-From_0_to_4_main" target="11" />
+      <module name="Problems-From_0_to_4_test" target="11" />
+      <module name="Problems-Hello,_Java" target="11" />
+      <module name="Problems-Hello,_Java_main" target="11" />
+      <module name="Problems-Hello,_Java_test" target="11" />
+      <module name="Problems-Printing_a_magic_letter" target="11" />
+      <module name="Problems-Printing_a_magic_letter_main" target="11" />
+      <module name="Problems-Printing_a_magic_letter_test" target="11" />
+      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game" target="11" />
+      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
+      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Problems-We_need_to_learn_Java" target="11" />
+      <module name="Problems-We_need_to_learn_Java_main" target="11" />
+      <module name="Problems-We_need_to_learn_Java_test" target="11" />
+      <module name="util" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
