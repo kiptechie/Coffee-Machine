@@ -32,3 +32,4 @@ content:
 - Extracting a substring
 - Replacing 'a' with 'b'
 - Check prefix ignoring the case
+- Reading integer numbers
