@@ -102,9 +102,12 @@ files:
             String loweredOutput = userOutput.toLowerCase();
             boolean ans = clue.cond;
             int amount = clue.num;
-            if (ans && loweredOutput.contains("yes")) {
+            if (ans) {
                 if (amount > 0) {
-                    boolean isCorrect = loweredOutput.contains(Integer.toString(amount));
+                    boolean isCorrect =
+                        loweredOutput.contains(Integer.toString(amount))
+                         && loweredOutput.contains("yes");
+
                     if (isCorrect) {
                         return CheckResult.correct();
                     } else {
@@ -124,7 +127,24 @@ files:
                         }
                     }
                 }
-                return CheckResult.correct();
+
+                if (loweredOutput.contains("yes")) {
+                    return CheckResult.correct();
+                } else {
+                    String rightOutput =
+                        "Yes, I can make that amount of coffee";
+
+                    if (clue.showTests) {
+                        return new CheckResult(false,
+                            "Your output:\n" +
+                                userOutput +
+                                "\nRight output:\n" +
+                                rightOutput);
+                    } else {
+                        return CheckResult.wrong("");
+                    }
+                }
+
             } else {
                 boolean cond1 = loweredOutput.contains("no");
                 boolean cond2 = loweredOutput.contains(Integer.toString(amount));
